@@ -122,7 +122,7 @@ services:
       - ./data:/restreamer/data
     environment:
       - RS_USERNAME=admin
-      - RS_PASSWORD=bivcom2024
+      - RS_PASSWORD=L@ranet2025
       - RS_STORAGE_DIR=/restreamer/data
     networks:
       - bivcom-network
